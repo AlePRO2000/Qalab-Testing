@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Arreglos/Arreglos.iml" filepath="$PROJECT_DIR$/Arreglos/Arreglos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Arreglos2/Arreglos2.iml" filepath="$PROJECT_DIR$/Arreglos2/Arreglos2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Buclue - Solicitud de Clave varias veces/Buclue - Solicitud de Clave varias veces.iml" filepath="$PROJECT_DIR$/Buclue - Solicitud de Clave varias veces/Buclue - Solicitud de Clave varias veces.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Cadenas/Cadenas.iml" filepath="$PROJECT_DIR$/Cadenas/Cadenas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ejemplo-Bucle/Ejemplo-Bucle.iml" filepath="$PROJECT_DIR$/Ejemplo-Bucle/Ejemplo-Bucle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bucle-for/bucle-for.iml" filepath="$PROJECT_DIR$/bucle-for/bucle-for.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/fuentes_sesion02.iml" filepath="$PROJECT_DIR$/.idea/fuentes_sesion02.iml" />
+    </modules>
+  </component>
+</project>
